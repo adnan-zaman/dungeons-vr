@@ -15,14 +15,16 @@ the location. This is how you move yourself around the world.
 
 ![movement](/media/traversal2.gif)
 
-#Interaction
+# Interaction
 
 You can grapple items and move them from afar (including pressing buttons by grappling onto
 them and moving levers). You can also grab the item with your hand if it's within reach.
 
-<img><img>
+![interaction1](/media/interaction1.gif) ![interaction2](/media/interaction2.gif)
 
 Items can be retracted back to your hand where they can be thrown away.
+
+![interaction3](/media/interaction3.gif)
 
 <img>
 
