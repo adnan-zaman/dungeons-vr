@@ -4,8 +4,14 @@ Despite the name, the game is not VR (due to labs closing because of covid19)
 
 The goal of the game is to navigate through the dungeon to reach the exit room.
 The main mechanic is using your grappling hook to move objects, interact with items
-and traverse the world
+and traverse the world.
 
+You can watch this [video demonstration.](https://youtu.be/4pU8Fa_Y8cY)
+
+## Movement
+
+You shoot your grappling hook at walls and floors. Once hooked, you can retract yourself towards
+the location. This is how you move yourself around the world.
 
 ## Controls
 
